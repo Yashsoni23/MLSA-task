@@ -34,7 +34,7 @@ const projectList = [
     title: "Beatleap",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://beatleap.yashsimejiya.me",
+    url: "https://beatleap.netlify.app",
   },
   {
     title: "Payrol",
@@ -52,7 +52,7 @@ const projectList = [
     title: "Video Conference",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://videoconference.yashsimejiya.me",
+    url: "https://videochat.yashsimejiya.me",
   },
 ];
 

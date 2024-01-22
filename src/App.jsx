@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "iyashsimejiya",
   linkedIn: "yash-simejiya-8288a6225",
   medium: "",
-  twitter: "iyashsoni",
-  youTube: "iyashsimejiya",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
